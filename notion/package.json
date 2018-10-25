@@ -1,0 +1,13 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://www.notion.so"
+  }
+}
